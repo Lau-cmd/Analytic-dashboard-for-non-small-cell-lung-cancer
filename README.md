@@ -28,9 +28,3 @@ To emulate realistic clinical observational conditions without privacy constrain
 * **Data Wrangling:** `dplyr`, `broom`
 * **Visualization:** `ggplot2`, `plotly` (Interactive charts)
 * **Biostatistics & Survival:** `survival`, `survminer`
-
----
-
-# Clone this repository or download app.R
-# Open RStudio and run:
-shiny::runApp("app.R")
